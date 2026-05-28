@@ -1,0 +1,8 @@
+build
+.gradle
+/.git
+/.idea
+**/tmp
+*.log
+out
+node_modules
