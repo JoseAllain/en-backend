@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: ensolvers-backend
-    env: docker
-    dockerfilePath: Dockerfile
-    autoDeploy: true
